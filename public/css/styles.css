@@ -1,0 +1,87 @@
+.modal-body-sub {
+    padding:2em !important;
+}
+.modal-title {
+    font-size: 1.1em;
+    color: #212121;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-left: 1em;
+    letter-spacing: 2px;
+}
+.modal-body.modal-body-sub_agile input[type="text"],.modal-body.modal-body-sub_agile input[type="email"],.modal-body.modal-body-sub_agile input[type="password"] {
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #777;
+    padding: 0.5em 1em 0.5em 0;
+    border: 0;
+    width: 100%;
+    border-bottom: 1px solid #dcdcdc;
+    background: none;
+    -webkit-appearance: none;
+    outline: none;
+}
+h3.agileinfo_sign {
+    font-size: 1.2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 2em;
+}
+.modal_body_right.modal_body_right1 {
+    padding: 0;
+}
+h3.agileinfo_sign span {
+    font-weight:300;
+}
+
+.modal-body.modal-body-sub_agile ::-webkit-input-placeholder{
+    color:#212121 !important;
+}
+.modal-body.modal-body-sub_agile input[type="submit"]{
+    border: none;
+    padding: 10px 40px 10px;
+    font-size: 14px;
+    outline: none;
+    text-transform: uppercase;
+    margin: 0 0 0 -4px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background:#111;
+    color: #fff;
+}
+.modal-body.modal-body-sub_agile input[type="submit"]:hover{
+    background: #2fdab8;
+}
+.modal_body_right.modal_body_right1 img {
+    width: 100%;
+}
+ul.social-nav.model-3d-0.footer-social.w3_agile_social.top_agile_third {
+    float: left;
+}
+.modal-body.modal-body-sub_agile p a {
+    font-size: 0.875em;
+    color: #212121;
+    letter-spacing: 1px;
+}
+.modal-body.modal-body-sub_agile p {
+    font-size: 0.85em;
+    font-weight: 600;
+    line-height: 2em;
+    color: #000;
+}
+ul.social-nav.model-3d-0.footer-social.w3_agile_social.top_agile_third {
+    margin: 2em 0 0.5em 0;
+}
+.modal_body_left.modal_body_left1 {
+    padding-left:0;
+}
+.modal-body.modal-body-sub_agile {
+    padding: 0 1em 2em 2em;
+    margin-top: 1em;
+}
+.modal-content.top_w3lform_agile {
+    padding: 2em 0;
+    border-radius: 0;
+}
+
